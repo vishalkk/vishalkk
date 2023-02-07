@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 <h3 align="center">A passionate Flutter developer. I Develope Industry 4.0 ready BLE and wired mobile application with flutter.</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F836HiJc7pgzy8iNXCn%2Fgiphy.gif&imgrefurl=https%3A%2F%2Fwww.kaggle.com%2Fleventoz&tbnid=yc5es0aHgu5SFM&vet=12ahUKEwijnv2TsIP9AhXO-zgGHZrAD28QMyhTegUIARDLAQ..i&docid=hexHip2OWNcGPM&w=480&h=270&q=animated%20coding%20gif%20&ved=2ahUKEwijnv2TsIP9AhXO-zgGHZrAD28QMyhTegUIARDLAQ](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning **AWS, DevOps**
 
 - 💬 Ask me about **Flutter , DSA , Competetive programming**
